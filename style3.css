@@ -1,0 +1,47 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(./assests/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    align-items: center;
+    justify-content: center;
+    padding: 0px;
+    
+
+}
+header{
+    color: brown;
+    font-size: 12px;
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+
+
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+    gap: 20px;
+    
+}
+
+ li a{
+  
+    text-decoration: none;
+    color:blue;
+    font-size: 15px;
+  
+
+}
+
+button{
+    background-color: #b13f64;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
