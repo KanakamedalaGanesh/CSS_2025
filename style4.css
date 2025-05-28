@@ -9,11 +9,10 @@ body {
     display: flex;
 }
 
-.container {
+.container1 {
     height: 100%;
     width: 100%; 
-    display: flex;
-    justify-content: center;
+    display: flex; 
     flex-direction: row;
     gap: 20px;
     padding: 10px;
@@ -116,8 +115,10 @@ flex-grow: 1;
 }
 .box9 {
     flex-grow: 1;
-    max-width: 450px;
-    max-height: 450px; 
+    max-width: 750px;
+    max-height: 750px;
+    min-width: 350px; 
+    min-height: 350px;
     width: 350px;
     height: 350px;
     background-color: rgb(6, 136, 6);
