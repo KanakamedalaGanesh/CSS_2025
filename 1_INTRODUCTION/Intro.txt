@@ -1,0 +1,35 @@
+CSS : CSS stands for Cascading Style Sheets. It is used to control the layout and appearance of web pages written in HTML.
+// CSS is used to separate the presentation of a document from its structure, which is specified in HTML. 
+//This separation of concerns makes it easier to maintain and update the layout and design of a web page without affecting its structure.
+
+
+Uses of CSS :
+1.  **Layout**: CSS is used to control the layout of web pages. It can be used to specify the position of elements on a page, the size and shape of elements, and the spacing between elements.
+2.  **Appearance**: CSS is used to control the appearance of web pages. It can be used to specify the color, font, and other visual properties of elements on a page.
+3.  **User Experience**: CSS is used to improve the user experience of web pages. It can be used to create interactive effects, such as hover effects and animations.
+4.  **Responsiveness**: CSS is used to make web pages responsive, meaning they can be viewed on different devices and screen sizes.
+5.  **Accessibility**: CSS is used to make web pages more accessible to users with disabilities.
+
+
+
+Types of CSS:
+1.Inline CSS: This type of CSS is written directly in the HTML document, inside the style attribute of an HTML element.
+2.Internal CSS: This type of CSS is written in the head section of an HTML document, inside the style element.
+3.External CSS: This type of CSS is written in a separate file with a .css extension and is linked to the HTML document using the link element.
+
+//Inline CSS has highest priority and least preferance and External CSS has lowest priority and highest preferance.
+// Internal CSS has medium priority and medium preferance.
+
+Syntax of CSS :
+CSS syntax is made up of three main components: selectors, properties, and values.
+1.Selectors: These are the elements in the HTML document that the CSS styles will be applied to .
+2.Properties: These are the characteristics of the elements that the CSS styles will be applied to, such as color, font, and size.
+3.Values: These are the specific values that are assigned to the properties, such as #FF0000 for the color property.
+
+
+
+
+
+
+
+
