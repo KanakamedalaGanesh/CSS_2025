@@ -1,0 +1,11 @@
+Positions in CSS : CSS positions are used to position elements in a document. There are 5 types of positions in CSS, including:
+1.Absolute Positioning: This type of positioning removes the element from the normal document flow and positions it relative to its nearest positioned ancestor. 
+  The element is positioned at the coordinates specified by the top, right, bottom , and left properties.
+2.Relative Positioning: This type of positioning positions an element relative to its normal position. 
+  The element is positioned at the coordinates specified by the top, right, bottom, and left properties.
+3.Static Positioning: This is the default positioning scheme. The element is positioned according to the normal document flow.
+4.Fixed Positioning: This type of positioning removes the element from the normal document flow and positions it relative to the viewport.
+5.Sticky Positioning: This type of positioning is a combination of relative and fixed positioning. The element is positioned relative to its nearest positioned ancestor, but it also stays within the viewport when scrolled.
+
+
+
