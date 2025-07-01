@@ -1,0 +1,36 @@
+
+div {
+    height: 110px;
+    width: 110px;
+}
+
+.static {
+    position: static;
+    background-color: springgreen;
+}
+
+
+.relative {
+    position: relative;
+    background-color: aquamarine;
+  
+}
+
+
+.absolute {
+    background-color: red;
+    
+    
+}
+
+.fixed {
+   
+    background-color: yellowgreen;
+}
+
+.sticky {
+ 
+    background-color: violet;
+   
+}
+
