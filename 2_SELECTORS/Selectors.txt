@@ -1,0 +1,45 @@
+Selectors in CSS : CSS Selectors are used to select HTML elements. They are used to apply styles to specific elements on a web page. 
+//CSS selectors can be used to select elements based on their id, class, tag name, attribute, and more. They can also be used to select elements based on their relationship with other elements, such as their parent, child, or sibling elements.
+//CSS Selectors are used to apply styles to specific elements on a web page. They are used to select HTML elements and apply styles to them. 
+
+Types of CSS Selectors :
+# Basic Selectors
+1. Class Selectors : These are used to select elements based on their class attribute. They are denoted by a dot (.) followed by the class name. 
+For example, .class-name { style } will select all elements with the class name.
+
+2. ID Selectors : These are used to select elements based on their id attribute. They are denoted by a hash (#) followed by the id name.
+For example, #id-name { style } will select the element with the id name.
+
+3. Tag Selectors : These are used to select elements based on their tag name. They are denoted by the tag name.
+For example, p { style } will select all paragraph elements.
+
+4. Attribute Selectors : These are used to select elements based on their attribute. They are denoted by the attribute name followed by the attribute value.
+For example, [attribute='value'] { style } will select all elements with the attribute value.
+
+
+# Pseudo Selectors
+5. Pseudo-Class Selectors : These are used to select elements based on their state. They are denoted by a colon (:) followed by the pseudo-class name.
+For example, :hover { style } will select all elements when the mouse is over them.
+
+6. Pseudo-Element Selectors : These are used to select elements based on their position.
+For example, ::before { style } will select the element before the selected element.
+
+
+# Combinator Selectors
+7. Combinators : These are used to select elements based on their relationship with other elements.
+For example, h1 + p { style } will select all paragraph elements that are immediately after a heading element.
+
+8. Descendant Selectors : These are used to select elements based on their relationship with other elements.
+For example, h1 p { style } will select all paragraph elements that are descendants of a heading element.
+
+9. Child Selectors : These are used to select elements based on their relationship with other elements.
+For example, h1 > p { style } will select all paragraph elements that are direct children of a heading element.
+
+10. Adjacent Sibling Selectors : These are used to select elements based on their relationship with other elements.
+For example, h1 + p { style } will select all paragraph elements that are immediately after a heading element.
+
+11. General Sibling Selectors : These are used to select elements based on their relationship with other elements.
+For example, h1 ~ p { style } will select all paragraph elements that are siblings of a heading element.
+
+
+
